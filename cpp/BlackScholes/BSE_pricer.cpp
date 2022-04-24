@@ -1,4 +1,4 @@
-// Black-Scholes Equation Pricer C++ Program for COMP0041 Coursework
+// Black-Scholes Equation Pricer C++ Program
 
 #include<iostream>
 #include<cmath>
